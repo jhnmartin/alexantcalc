@@ -1,3 +1,4 @@
 //hello world
 
-alert('Hello John')
+document.getElementById("cost-totals").innerHTML = "New text!";
+
