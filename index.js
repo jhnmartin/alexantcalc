@@ -1,4 +1,4 @@
 //hello world
 
-document.getElementById("cost-totals").innerHTML = "New text!";
+document.getElementById("cost-total").innerHTML = "New text!";
 
